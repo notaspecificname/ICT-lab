@@ -19,5 +19,4 @@ int main(){
     printf("Age: %d \n \n", age);
     printf("City: %s \n", city);
 
-
 }
